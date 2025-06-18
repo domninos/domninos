@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 # Current GitHub Activities 2025
-[![GitHub Streak](https://streak-stats.demolab.com?user=domninos&theme=github-dark&border_radius=7.1&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=180)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two-beta.vercel.app?user=domninos&theme=github-dark&border_radius=7.1&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=180)](https://git.io/streak-stats)
