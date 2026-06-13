@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Domninos (shin) | Minecraft Java Plugin Developer • Backend Developer • Computer Science Student
+### Domninos (shin) • 21 | Minecraft Java Plugin Developer • Backend Developer • Computer Science Student
 
 <p>
   <img src="https://img.shields.io/badge/Clients-15%2B-success?style=for-the-badge" />
@@ -22,9 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Freelance-Experienced-blue?style=for-the-badge" />
 </p>
 
----
-
-## 📌 Featured Projects
+## 📌 Featured
 
 ### 🏆 AdvancedChunkHoppers
 An advanced hopper management system built for production Minecraft servers, focused on performance, automation, chunk-based processing, and large-scale server optimization.
@@ -47,8 +45,6 @@ Discord bot for server management, automation, and integration with Minecraft-re
 ### NearChatV2
 Proximity-based chat system that improves immersion and player interaction.
 
----
-
 ## 🔰 Experience
 
 - Minecraft Development since **2016**
@@ -57,8 +53,6 @@ Proximity-based chat system that improves immersion and player interaction.
 - Production Server Experience
 - Custom Plugin Development
 - API Integration & Backend Development
-
----
 
 ## ❗ Background
 
@@ -74,8 +68,6 @@ Although I eventually stepped away from freelancing due to burnout, I never stop
 
 Today, I continue pursuing software engineering while specializing in Minecraft server development, backend systems, APIs, Discord integrations, and full-stack applications.
 
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -89,8 +81,6 @@ Today, I continue pursuing software engineering while specializing in Minecraft 
   <img src="https://img.shields.io/badge/Velocity-0088FF?style=for-the-badge" />
 </p>
 
----
-
 ## ⚡ Skills
 
 ### Minecraft Java Development
@@ -99,7 +89,6 @@ Today, I continue pursuing software engineering while specializing in Minecraft 
 - Server Utilities
 - API Integrations
 - Performance Optimization
-- Multi-Server Architectures
 - Plugin Refactoring & Maintenance
 
 ### Backend Development
@@ -113,12 +102,8 @@ Today, I continue pursuing software engineering while specializing in Minecraft 
 - JavaScript / TypeScript
 - Firebase / Supabase
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats-two-beta.vercel.app?user=domninos&theme=github-dark&border_radius=7.1&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=180" alt="GitHub Stats"/>
 </p>
-
----
