@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Domninos (Shin)
 
-### Minecraft Java Plugin Developer • Backend Developer • Computer Science Student
+### Domninos (shin) | Minecraft Java Plugin Developer • Backend Developer • Computer Science Student
 
 <p>
   <img src="https://img.shields.io/badge/Clients-15%2B-success?style=for-the-badge" />
@@ -45,7 +44,7 @@ This project showcases my experience in:
 
 ---
 
-## Experience
+## 🔰 Experience
 
 - Minecraft Development since **2016**
 - Freelance Plugin Development since **2020**
@@ -56,7 +55,7 @@ This project showcases my experience in:
 
 ---
 
-## ℹ️ Background
+## ❗ Background
 
 When I was a Minecraft PvP player back in 2016, I became fascinated with how server features actually worked behind the scenes.
 
