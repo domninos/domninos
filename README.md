@@ -22,25 +22,31 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Freelance-Experienced-blue?style=for-the-badge" />
 </p>
 
-I specialize in developing custom Minecraft server solutions using Paper, Spigot, Velocity, and BungeeCord.
-
-Over the years, I've built gameplay systems, server utilities, API integrations, Discord automation tools, and performance-focused plugins used in real production environments.
-
 ---
 
-## 🏆 Featured Project
+## 📌 Featured Projects
 
-### AdvancedChunkHoppers
-
+### 🏆 AdvancedChunkHoppers
 An advanced hopper management system built for production Minecraft servers, focused on performance, automation, chunk-based processing, and large-scale server optimization.
 
 This project showcases my experience in:
-- Performance optimization
+- Performance optimization (Caching)
+- Structured Database (HikariCP with MySQL)
 - Event-driven architecture
 - Inventory management systems
 - Configurable plugin design
 - Real-world client requirements
 - Production-ready plugin development
+
+
+### OMCApi
+Shared API framework designed to support modular Minecraft services and custom-made plugins for Oh My Code (OMC).
+
+### OMC-Bot
+Discord bot for server management, automation, and integration with Minecraft-related services within OMC.
+
+### NearChatV2
+Proximity-based chat system that improves immersion and player interaction.
 
 ---
 
@@ -112,43 +118,6 @@ Today, I continue pursuing software engineering while specializing in Minecraft 
 - TypeScript
 - Firebase
 - Supabase
-
----
-
-## 📌 Featured Projects
-
-### AdvancedChunkHoppers
-Advanced hopper management system focused on performance, automation, and server optimization.
-
-### OMCApi
-Shared API framework designed to support modular Minecraft services and plugins.
-
-### OMC-Bot
-Discord bot for server management, automation, and integration with Minecraft-related services.
-
-### NearChatV2
-Proximity-based chat system that improves immersion and player interaction.
-
----
-
-## Currently Working On
-
-- Advanced Minecraft Server Infrastructure
-- Cross-Server Plugin Utilities
-- Full-Stack Web Applications
-- Discord Bot Integrations
-- Backend API Development
-
----
-
-## Available For
-
-- Custom Minecraft Plugin Development
-- Plugin Maintenance & Refactoring
-- API Development
-- Backend Systems
-- Discord Bot Development
-- Minecraft Server Utilities
 
 ---
 
