@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Domninos (shin) • 21 | Minecraft Java Plugin Developer • Backend Developer • Computer Science Student
+<h1 align="center">
+  Domninos (shin)
+</h1> 
 
-<p>
+<p align="center">
+   Minecraft Java Plugin Developer • Backend Developer • Computer Science Student
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-21-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clients-15%2B-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vouches-★★★★★-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Freelance-Experienced-blue?style=for-the-badge" />
 </p>
 
@@ -28,7 +34,7 @@ Here are some ideas to get you started:
 An advanced hopper management system built for production Minecraft servers, focused on performance, automation, chunk-based processing, and large-scale server optimization.
 
 This project showcases my experience in:
-- Performance optimization (Caching - Redis)
+- Performance optimization (Caching)
 - Structured Database (HikariCP with MySQL)
 - Event-driven architecture
 - Inventory management systems
