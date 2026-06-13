@@ -71,7 +71,7 @@ Today, I continue pursuing software engineering while specializing in Minecraft 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,firebase,supabase,mysql,sqlite,git,github,maven,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,supabase,redis,supabase,mysql,sqlite,github,maven,vscode,idea" />
 </p>
 
 <p align="center">
