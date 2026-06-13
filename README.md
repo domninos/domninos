@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 An advanced hopper management system built for production Minecraft servers, focused on performance, automation, chunk-based processing, and large-scale server optimization.
 
 This project showcases my experience in:
-- Performance optimization (Caching)
+- Performance optimization (Caching - Redis)
 - Structured Database (HikariCP with MySQL)
 - Event-driven architecture
 - Inventory management systems
