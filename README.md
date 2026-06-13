@@ -38,7 +38,6 @@ This project showcases my experience in:
 - Real-world client requirements
 - Production-ready plugin development
 
-
 ### OMCApi
 Shared API framework designed to support modular Minecraft services and custom-made plugins for Oh My Code (OMC).
 
@@ -94,10 +93,9 @@ Today, I continue pursuing software engineering while specializing in Minecraft 
 
 ## ⚡ Skills
 
-### Minecraft Development
+### Minecraft Java Development
 - PaperMC / Spigot Development
 - Velocity & BungeeCord Development
-- Custom Gameplay Systems
 - Server Utilities
 - API Integrations
 - Performance Optimization
@@ -109,15 +107,11 @@ Today, I continue pursuing software engineering while specializing in Minecraft 
 - Express.js
 - REST APIs
 - Database Design
-- Authentication Systems
-- Service Integration
 
 ### Full Stack Development
 - React
-- JavaScript
-- TypeScript
-- Firebase
-- Supabase
+- JavaScript / TypeScript
+- Firebase / Supabase
 
 ---
 
